@@ -5,7 +5,7 @@ I'm a Human Language Technology graduate with a background in Natural Language P
 
 Here you'll find projects where I work with data through analysis, visualization and storytelling, alongside projects from my academic background in NLP and text analytics. 
 
-Explore my [projects](https://github.com/widyapsari?tab=repositories) here.
+Explore my [projects](https://github.com/widyapsari/Portfolio/blob/main/README.md) here.
 
 ## Tools and Technologies
 **Programming & Analysis**: Python, Pandas, SQL, Excel<br>
